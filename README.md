@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @Mohamed Alim
+- 🎓 Currently Pursuing Computer Science and Engineering 2nd Year at Velammal College of Engineering and Technology,Madurai,Tamilnadu,India
 - 👀 I’m interested in Web Development and App development
 - 🌱 I’m currently learning Web Development
 - 📫 Reach me through
