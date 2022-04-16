@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Mohamed Alim
 - 🎓 Currently Pursuing Computer Science and Engineering 3rd Year at Velammal College of Engineering and Technology,Madurai,Tamilnadu,India
-- 👀 I’m interested in Web Development and App development
-- 🌱 I’m currently learning Web Development
+- 👀 Front end Web Developer
 - 📫 Reach me through
      Mail:alimafra60@gmail.com
      Phone:9629786136
