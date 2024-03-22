@@ -1,6 +1,10 @@
 - 👋 Hi, I’m @Mohamed Alim
-- 🎓 Currently Pursuing Computer Science and Engineering 3rd Year at Velammal College of Engineering and Technology,Madurai,Tamilnadu,India
-- 👀 Front end Web Developer
+- 🎓 Finished B.E Computer Science and Engineering at Velammal College of Engineering and Technology,Madurai,Tamilnadu,India
+Technical Skills:
+- Java 
+- Web Development
+- Angular 
+- SAP MM 
 - 📫 Reach me through
      Mail:alimafra60@gmail.com
      Phone:9629786136
